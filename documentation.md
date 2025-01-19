@@ -13,3 +13,7 @@
    - Python dosyaları için genel istisnalar
    - IDE dosyaları için istisnalar
    - İşletim sistemi dosyaları için istisnalar
+6. README.md dosyası oluşturuldu:
+   - Kurulum talimatları (MacOS ve Windows için)
+   - Çalıştırma talimatları (MacOS ve Windows için)
+   - Proje yapısı açıklaması
