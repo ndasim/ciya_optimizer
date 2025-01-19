@@ -21,12 +21,7 @@ venv\Scripts\activate
 pip install requests
 ```
 
-4. Sanal ortamı aktive edin (eğer aktif değilse):
-```cmd
-venv\Scripts\activate
-```
-
-5. Programı çalıştırın:
+4. Programı çalıştırın:
 ```cmd
 python main.py
 ```
